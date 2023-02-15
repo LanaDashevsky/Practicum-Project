@@ -17,7 +17,7 @@ The file `ecommerce_dataset_us.csv` contains the following columns:
 - `UnitPrice` — price per item
 - `CustomerID`
 
-## Project structure:
+### Project structure:
 
 1. General lookup. Taking a look at the datasets and making a plan for data preprocessing.
 2. Data Preprocessing. Treating missing values, duplicates, and other data anomalies.
@@ -29,9 +29,12 @@ The file `ecommerce_dataset_us.csv` contains the following columns:
 8. Overall conclusion and recommendations for business.
 
 
-## Dashboards created for this project on Tableau Public:
+### Dashboards created for this project on Tableau Public:
 
 Main Sales Overview, RFM Segmentation, Marketing Strategy:
+
 https://public.tableau.com/app/profile/lana.dashevsky/viz/e-commerceproject_pres/SalesOverview
 
+### Presentation:
 
+https://drive.google.com/file/d/1_AxPqBrlSkXRzlxhAMHo5XCPvdMKj2dL/view
