@@ -1,4 +1,4 @@
-## Project - Factors affecting the price of a car
+## Project 2 - Factors affecting the price of a car
 
 **Technologies and Tools** - Python, Jupyter, Pandas, Numpy, Seaborn, Matplotlib, Plotly
 
